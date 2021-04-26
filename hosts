@@ -1,2 +1,5 @@
 [labservers]
 ansiblelab6
+
+[labservers:vars]  
+ansible_user = ramann
